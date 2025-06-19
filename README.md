@@ -25,7 +25,7 @@ Execute the program using runserver command.
 
 ## PROGRAM
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
